@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d9ca8c5d-12df-4d40-8218-745c8ddd25cc": {
+      "ProjectGuid": "d9ca8c5d-12df-4d40-8218-745c8ddd25cc",
+      "DisplayName": "console örnek1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
